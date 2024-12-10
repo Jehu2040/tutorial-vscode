@@ -1,0 +1,2 @@
+Pero también se puede estar interesado en averiguar el efecto de varias variables independientes para lo que es preciso utilizar diseños multivariados. 
+Las principales ventajas del método experimental son: La gran capacidad de manipulación que se ejerce sobre la situación.
